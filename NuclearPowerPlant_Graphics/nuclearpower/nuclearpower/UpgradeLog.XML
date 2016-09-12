@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="nuclearpower">
+</Property><Property Name="Solution File" Value="A:\projects\project 5th sem nucleaer powerplant\nuclearpowerfinal\nuclearpower\nuclearpower\nuclearpower.sln">
+</Property><Property Name="User Options File" Value="A:\projects\project 5th sem nucleaer powerplant\nuclearpowerfinal\nuclearpower\nuclearpower\nuclearpower.suo">
+</Property><Property Name="Date" Value="Sunday, September 11, 2016">
+</Property><Property Name="Time" Value="14:49 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="nuclearpower.sln" Description="File successfully backed up as A:\projects\project 5th sem nucleaer powerplant\nuclearpowerfinal\nuclearpower\nuclearpower\nuclearpower.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="nuclearpower.suo" Description="File successfully backed up as A:\projects\project 5th sem nucleaer powerplant\nuclearpowerfinal\nuclearpower\nuclearpower\nuclearpower.suo.old">
+</Event><Event ErrorLevel="0" Project="nuclearpower" Source="nuclearpower\nuclearpower.vcproj" Description="Converting project file 'A:\projects\project 5th sem nucleaer powerplant\nuclearpowerfinal\nuclearpower\nuclearpower\nuclearpower\nuclearpower.vcproj'.">
+</Event><Event ErrorLevel="1" Project="nuclearpower" Source="nuclearpower\nuclearpower.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="nuclearpower" Source="nuclearpower\nuclearpower.vcproj" Description="Done converting to new project file 'A:\projects\project 5th sem nucleaer powerplant\nuclearpowerfinal\nuclearpower\nuclearpower\nuclearpower\nuclearpower.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="nuclearpower" Source="nuclearpower\nuclearpower.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="nuclearpower.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="nuclearpower.sln" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="nuclearpower">
+</Property><Property Name="Solution File" Value="D:\projects\project 5th sem nucleaer powerplant\nuclearpowerfinal\nuclearpower\nuclearpower.sln">
+</Property><Property Name="Date" Value="Saturday, March 9, 2013">
+</Property><Property Name="Time" Value="0:09 AM">
+</Property></Properties><Event ErrorLevel="0" Project="nuclearpower" Source="nuclearpower\nuclearpower.vcproj" Description="Converting project file 'D:\projects\project 5th sem nucleaer powerplant\nuclearpowerfinal\nuclearpower\nuclearpower\nuclearpower.vcproj'.">
+</Event><Event ErrorLevel="1" Project="nuclearpower" Source="nuclearpower\nuclearpower.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="nuclearpower" Source="nuclearpower\nuclearpower.vcproj" Description="Done converting to new project file 'D:\projects\project 5th sem nucleaer powerplant\nuclearpowerfinal\nuclearpower\nuclearpower\nuclearpower.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="nuclearpower" Source="nuclearpower\nuclearpower.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="nuclearpower.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="nuclearpower.sln" Description="Converted">
+</Event></UpgradeLog>

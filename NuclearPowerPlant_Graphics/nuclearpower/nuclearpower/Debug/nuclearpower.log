@@ -1,0 +1,16 @@
+﻿Build started 7/1/2016 9:59:19 PM.
+     1>Project "A:\projects\project 5th sem nucleaer powerplant\nuclearpowerfinal\nuclearpower\nuclearpower\nuclearpower.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\nuclearpower.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         Deleting file "Debug\nuclearpower.pch".
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\nuclearpower.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\nuclearpower.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt nuclearpower.cpp
+         nuclearpower.cpp
+     1>a:\projects\project 5th sem nucleaer powerplant\nuclearpowerfinal\nuclearpower\nuclearpower\nuclearpower.cpp(9): fatal error C1083: Cannot open include file: 'glut.h': No such file or directory
+     1>Done Building Project "A:\projects\project 5th sem nucleaer powerplant\nuclearpowerfinal\nuclearpower\nuclearpower\nuclearpower.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:04.18
